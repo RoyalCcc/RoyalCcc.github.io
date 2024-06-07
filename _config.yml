@@ -21,9 +21,9 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Chen Luo (骆宸)"
+  name             : <center>Chen Luo (骆宸)</center>
   avatar           : "images/lc_profile.jpeg"
-  bio              : <center>"Syracuse University"</center>
+  bio              : <center>Syracuse University</center>
   location         : "Mountain View, CA"
   employer         :
   pubmed           : 
