@@ -18,10 +18,6 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 - ``ECAI 2023`` [Multi-agent Cooperative Games Using Belief Map Assisted Training](https://arxiv.org/abs/2312.11947), **Chen Luo**,  Qinwei Huang, Alex B. Wu, Simon Khan, Hai Li, Qinru Qiu. [![](https://img.shields.io/github/stars/qhuang18-97/BAMS?style=social&label=Code+Stars)](https://github.com/qhuang18-97/BAMS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 
