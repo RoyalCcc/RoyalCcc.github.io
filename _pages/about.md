@@ -11,7 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+You can find my CV here:
+[![Download CV](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](../assets/Resume_ChenLuo.pdf)
+
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!-- END LATEST DOWNLOAD BUTTON -->
