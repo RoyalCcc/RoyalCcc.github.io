@@ -3,21 +3,30 @@
 ## 🎙 Conference
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/BAMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Multi-agent Cooperative Games Using Belief Map Assisted Training](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Chen Luo**,  Qinwei Huang, Alex B. Wu, Simon Khan, Hai Li, Qinru Qiu
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/qhuang18-97/BAMS) \\<strong><span class='show_paper_citations' data='T_2dlCMAAAAJ'></span></strong>
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- A novel belief-map assisted multi-agent system (BAMS) for multi-agent cooperative games.
+-	Adopted attention-based inter-agent communication mechanism to overcome partial observation limitation.
+-	Improved actor-critic model training convergence speed by up to 68% with the assistance of BAMS.
+
 </div>
 </div>
 
 
 - ``ECAI 2023`` [Multi-agent Cooperative Games Using Belief Map Assisted Training](https://arxiv.org/abs/2312.11947), **Chen Luo**,  Qinwei Huang, Alex B. Wu, Simon Khan, Hai Li, Qinru Qiu. [![](https://img.shields.io/github/stars/qhuang18-97/BAMS?style=social&label=Code+Stars)](https://github.com/qhuang18-97/BAMS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
+- ``ICNS 2022`` [An Integrated Simulation Platform for the Analysis of UAS BVLOS Operations Supported by 4G/5G Communications](https://text-to-audio.github.io/paper.pdf), Rui Zuo, Zixi Wang, **Chen Luo**, Carlos Caicedo, M. Cenk Gursoy, Qinru Qiu, Adrian Solomon.
+- ``ICAR 2021``  [Applying Machine Learning in Designing Distributed Auction for Multi-Agent Task Allocation with Budget Constraints](https://text-to-audio.github.io/paper.pdf)
+- ``ICNS 2021``  [Neural Network Architecture Search and Model Compression for Fast Prediction of UAS Traffic Density](https://text-to-audio.github.io/paper.pdf)
+- ``ICNS 2020``  [A cost-benefit analysis to achieve command and control (C2) link connectivity for beyond visual line of sight (BVLOS) operations](https://text-to-audio.github.io/paper.pdf)
+- ``DASC 2020``  [Machine Learning-Based Traffic Management Model for UAS Instantaneous Density Prediction in an Urban Area](https://text-to-audio.github.io/paper.pdf)
+- ``ICNS 2019``  [An Integrated Simulation Platform for the Analysis of UAS BVLOS Operations Supported by 4G/5G Communications](https://text-to-audio.github.io/paper.pdf)
+- ``DASC 2019``  [Simulation of Real-time Routing for UAS Traffic Management with Communication and Airspace Safety Considerations](https://text-to-audio.github.io/paper.pdf)
+- ``RTCSA 2019``  [Temporal and Spatial Routing for Large Scale Safe and Connected UAS Traffic Management in Urban Areas](https://text-to-audio.github.io/paper.pdf)
+  
 
